@@ -21,6 +21,7 @@ url: "https://smk-maliga.github.io" # the base hostname & protocol for your site
 twitter_username: 'smkmaliga'
 github_username: 'smk-maliga'
 medium_username: 'smkmaliga.sch.id'
+gbr_depan: 'logo.png'
 
 # Build settings
 markdown: kramdown

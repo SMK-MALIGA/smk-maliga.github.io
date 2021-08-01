@@ -8,6 +8,10 @@
 
         <div class="hero-content">
 
+          {% if site.gbr_depan != '' %}
+          <p class="text-center"><img src="img/{{site.gbr_depan}}"></p>
+          {% endif %}
+
           {% if site.title != '' %}
           <h1 class="text-center">{{site.title}}</h1>
           {% endif %}
